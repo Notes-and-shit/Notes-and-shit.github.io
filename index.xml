@@ -7,64 +7,64 @@
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Communication</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/Communication</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/Communication</guid>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/Communication</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/Communication</guid>
     <description></description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
   </item><item>
-    <title>L1 - Simplifying Rational Expressions</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L1---Simplifying-Rational-Expressions</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L1---Simplifying-Rational-Expressions</guid>
-    <description>Notes What is a polynomial? A polynomial is an algebraic expression formed from addition or substraction of terms Example x2+y - Binomial 4x2+3x−7 - Trinomial −abc - Monomial What ...</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
+    <title>L1 - Functions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L1---Functions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L1---Functions</guid>
+    <description>...</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
   </item><item>
-    <title>L2 - Multiply and Divide Rational Expressions</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L2---Multiply-and-Divide-Rational-Expressions</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L2---Multiply-and-Divide-Rational-Expressions</guid>
-    <description>Notes Multiplying Rational Expressions 1. Factorise 2.Indicate Restrictions Two Denominators 3. Simplify common factors 4. Multiply Dividing Rational Expressions 1.</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
+    <title>L2 - Functional Notation</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L2---Functional-Notation</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L2---Functional-Notation</guid>
+    <description>...</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
   </item><item>
-    <title>L3 - Add and Substract rational expressions</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L3---Add-and-Substract-rational-expressions</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L3---Add-and-Substract-rational-expressions</guid>
-    <description>Notes Adding or Subtracting Rational Expressions 1. Factorize 2. Find the LDC (Lowest Common Denominator) 3. State restrictions 4. Add or subtract the numerators after multiplying 5.</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
+    <title>L3 - Properties of Functions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L3---Properties-of-Functions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L3---Properties-of-Functions</guid>
+    <description>...</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
+  </item><item>
+    <title>L4 - Translations</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L4---Translations</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L4---Translations</guid>
+    <description> Vertical Translations In general, for y=f(x)+c: If c&gt;0, there is a vertical translation of c units upwards. If c&lt;0, there is a vertical translation of c units downwards.</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
+  </item><item>
+    <title>L5 - Reflections</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L5---Reflections</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L5---Reflections</guid>
+    <description> Reflections on the x-axis In general, for y=−f(x): There is a reflection the x axis if: The point (x,y) of f(x) becomes the point (x,−y). The graph of y=−f(x) is congruent to the graph of y=f(x).</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
+  </item><item>
+    <title>L6 - Stretch and Compressions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L6---Stretch-and-Compressions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L6---Stretch-and-Compressions</guid>
+    <description>...</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
+  </item><item>
+    <title>L7 - Combination of Transformations</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L7---Combination-of-Transformations</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L7---Combination-of-Transformations</guid>
+    <description>Add the table here.</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
+  </item><item>
+    <title>L8 - Inverse Functions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</guid>
+    <description> What is an inverse of a relation? An inverse relation is a reflection of a relation relative to y=x. In an inverse relation: (x,y)→(y,x) The domain becomes the image, and the image becomes the domain 3 methods of identifying an inverse Method 1: Table of values Take the table of values of and flip every value of x to y and every value of y to x Turn the domain into the image and the image into the domain Method 2: Graph Trace the inverse of the relation by switching the x and y values Method 3: Equation Switch the values of x and y in the equation Isolate y .</description>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
   </item><item>
     <title>Communication</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/Communication</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/Communication</guid>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</guid>
     <description></description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
-  </item><item>
-    <title>L1 - Max and Min Value of a Quadratic Function</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L1---Max-and-Min-Value-of-a-Quadratic-Function</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L1---Max-and-Min-Value-of-a-Quadratic-Function</guid>
-    <description>Notes 3 Forms of a Quadratic Function General Form y=ax2+bx+c y-intercept: (0,c) Vertex Form y=a(x−h)2+k *change the sign of h Vertex: (h, k) Factored Form y=a(x−r)(x−s) *change ...</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
-  </item><item>
-    <title>L2 - Applications</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L2---Applications</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L2---Applications</guid>
-    <description>...</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
-  </item><item>
-    <title>L3 - Working With Radicals</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L3---Working-With-Radicals</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L3---Working-With-Radicals</guid>
-    <description>...</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
-  </item><item>
-    <title>L4 - Solving Quadratic Equations</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L4---Solving-Quadratic-Equations</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L4---Solving-Quadratic-Equations</guid>
-    <description> 3 Solutions of a Quadratic Equation When we solve an equation, we are trying to to find the values of x that make MG = MD. For a quadratic function, this means the values of x that render the equation equal to 0.</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
-  </item><item>
-    <title>L5 - Determining Quadratic Equation with intercepts</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L5---Determining-Quadratic-Equation-with-intercepts</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L5---Determining-Quadratic-Equation-with-intercepts</guid>
-    <description>...</description>
-    <pubDate>Sun, 16 Jun 2024 13:24:40 GMT</pubDate>
+    <pubDate>Mon, 17 Jun 2024 13:32:44 GMT</pubDate>
   </item>
     </channel>
   </rss>
