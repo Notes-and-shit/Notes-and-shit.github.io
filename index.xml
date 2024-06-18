@@ -6,65 +6,65 @@
       <description>Last 10 notes on skibidi rizz notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>L5 - Determining Quadratic Equation with intercepts</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L5---Determining-Quadratic-Equation-with-intercepts</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L5---Determining-Quadratic-Equation-with-intercepts</guid>
+    <description>...</description>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
+  </item><item>
+    <title>L6 - System of Equations</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L6---System-of-Equations</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L6---System-of-Equations</guid>
+    <description> What is a system of equations? A system of functions is composed of functions that share the same variables. Solving systems of equations Substitution or elimination Factorize and solve for x Substitute x and solve for y values .</description>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
+  </item><item>
+    <title>Communication</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/Communication</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/Communication</guid>
+    <description></description>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
+  </item><item>
+    <title>L1 - Functions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L1---Functions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L1---Functions</guid>
+    <description>...</description>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
+  </item><item>
+    <title>L2 - Functional Notation</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L2---Functional-Notation</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L2---Functional-Notation</guid>
+    <description>...</description>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
+  </item><item>
+    <title>L3 - Properties of Functions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L3---Properties-of-Functions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L3---Properties-of-Functions</guid>
+    <description>...</description>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
+  </item><item>
+    <title>L4 - Translations</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L4---Translations</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L4---Translations</guid>
+    <description> Vertical Translations In general, for y=f(x)+c: If c&gt;0, there is a vertical translation of c units upwards. If c&lt;0, there is a vertical translation of c units downwards.</description>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
+  </item><item>
     <title>L5 - Reflections</title>
     <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L5---Reflections</link>
     <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L5---Reflections</guid>
     <description> Reflections on the x-axis In general, for y=−f(x): There is a reflection the x axis if: The point (x,y) of f(x) becomes the point (x,−y). The graph of y=−f(x) is congruent to the graph of y=f(x).</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
   </item><item>
     <title>L6 - Stretch and Compressions</title>
     <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L6---Stretch-and-Compressions</link>
     <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L6---Stretch-and-Compressions</guid>
     <description>...</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
   </item><item>
     <title>L7 - Combination of Transformations</title>
     <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L7---Combination-of-Transformations</link>
     <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L7---Combination-of-Transformations</guid>
     <description>Add the table here.</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
-  </item><item>
-    <title>L8 - Inverse Functions</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</guid>
-    <description> What is an inverse of a relation? An inverse relation is a reflection of a relation relative to y=x. In an inverse relation: (x,y)→(y,x) The domain becomes the image, and the image becomes the domain 3 methods of identifying an inverse Method 1: Table of values Take the table of values of and flip every value of x to y and every value of y to x Turn the domain into the image and the image into the domain Method 2: Graph Trace the inverse of the relation by switching the x and y values Method 3: Equation Switch the values of x and y in the equation Isolate y .</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
-  </item><item>
-    <title>Communication</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</guid>
-    <description></description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
-  </item><item>
-    <title>L1 - Laws of Exponents</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L1---Laws-of-Exponents</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L1---Laws-of-Exponents</guid>
-    <description>...</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
-  </item><item>
-    <title>L2 - Rational Exponents</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L2---Rational-Exponents</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L2---Rational-Exponents</guid>
-    <description>...</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
-  </item><item>
-    <title>L3 - Transformations of Exponential Functions</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L3---Transformations-of-Exponential-Functions</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L3---Transformations-of-Exponential-Functions</guid>
-    <description>...</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
-  </item><item>
-    <title>L4 - Solving Exponential Equations</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L4---Solving-Exponential-Equations</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L4---Solving-Exponential-Equations</guid>
-    <description>...</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
-  </item><item>
-    <title>L5 - Exponential Growth and Decay</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L5---Exponential-Growth-and-Decay</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L5---Exponential-Growth-and-Decay</guid>
-    <description>...</description>
-    <pubDate>Mon, 17 Jun 2024 23:56:56 GMT</pubDate>
+    <pubDate>Tue, 18 Jun 2024 01:37:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
