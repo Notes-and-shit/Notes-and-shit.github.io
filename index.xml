@@ -10,61 +10,61 @@
     <link>https://notes-and-shit.github.io/</link>
     <guid>https://notes-and-shit.github.io/</guid>
     <description>Get stated by heading to out Philosophy Here are the subjects we cover: English French Math.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
   </item><item>
-    <title>Notes</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-6/Notes</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-6/Notes</guid>
-    <description>L1: Periodic Functions Notes What is a periodic function? A periodic function is a function in which the values of repeat at regular intervals of . Example The height of somebody who is taking a ride on a large Ferris wheel is periodic.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
-  </item><item>
-    <title>Test</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-6/Test</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-6/Test</guid>
-    <description>47 headingcontent is king.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
-  </item><item>
-    <title>L1 - Pascal&#039;s Triangle</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L1---Pascal's-Triangle</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L1---Pascal's-Triangle</guid>
-    <description>Notes What is Pascal&#039;s Triangle? Pascal’s Triangle is a triangle formed by adding adjacent numbers from the previous rows to form the numbers below them ...</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
-  </item><item>
-    <title>L2 - Binomial Theory</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L2---Binomial-Theory</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L2---Binomial-Theory</guid>
-    <description>Notes Binomial Observations Coefficients: When a binomial is raised to a power, it’s coefficient corresponds to the values of a specific row. Example *Corresponds to 4th row of pascals triangle Exponents: When a binomial is raised to a power, it’s exponents approaches towards, or recedes away from Example Binomial Theory a diminishes from n to 0 b increases from 0 until it reaches n r increases from 0 until it reaches n There are terms in total The coefficient of a term is given by The sum of the exponents of and is the row Questions Example 1 Tip Remember binomial theorem.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
-  </item><item>
-    <title>L3 - Arithmetic Sequences</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L3---Arithmetic-Sequences</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L3---Arithmetic-Sequences</guid>
-    <description>Notes What is a sequence? A sequence is a list of numbers, figures, letters, etc. that are organized in a distinct and identifiable order Each number in a sequence is called a term.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
-  </item><item>
-    <title>L4 - Geometric Sequences</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L4---Geometric-Sequences</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L4---Geometric-Sequences</guid>
-    <description>Notes What is a geometric sequence? A geometric sequence is a sequence in which the ratio between two consecutive terms is constant. We can always multiply/divide the same value to find the next term.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
-  </item><item>
-    <title>L5 - Arithmetic and Geometric Series</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L5---Arithmetic-and-Geometric-Series</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L5---Arithmetic-and-Geometric-Series</guid>
+    <title>L3 - Properties of Functions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L3---Properties-of-Functions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L3---Properties-of-Functions</guid>
     <description>...</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
   </item><item>
-    <title>L6 - Recursive Sequences</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L6---Recursive-Sequences</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-7/L6---Recursive-Sequences</guid>
-    <description>Notes What is a Recursive Sequence? A Recursive Sequence is a sequence where the value of one term is based upon the previous terms of the sequence. Recursive Formula Formula that permits us to calculate a term, using the previous terms of the sequence Fibonacci Sequence The Fibonacci Sequence is a recursive sequence with the equation of: In general there are 3 components to a recursive formula The beginning terms A formula Restrictions Restrictions does not go below 1 For a lot of Recursive Sequences you will need restrictions.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
+    <title>L4 - Translations</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L4---Translations</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L4---Translations</guid>
+    <description> Vertical Translations In general, for : If , there is a vertical translation of c units upwards. If , there is a vertical translation of c units downwards.</description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
   </item><item>
-    <title>Lesson 1 - Simple and Compound Interest</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-8/Lesson-1---Simple-and-Compound-Interest</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-8/Lesson-1---Simple-and-Compound-Interest</guid>
-    <description>1. Simple Interest Interest is accumulated only on the principal amount. or Where: = Final amount = Principal amount = Interest rate (in decimal form) = Time Example 1: Investing $250 in an account that pays 5% simple interest per year for 5 years.</description>
-    <pubDate>Fri, 06 Sep 2024 00:58:30 GMT</pubDate>
+    <title>L5 - Reflections</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L5---Reflections</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L5---Reflections</guid>
+    <description> Reflections on the x-axis In general, for : There is a reflection the x axis if: The point of becomes the point . The graph of is congruent to the graph of .</description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
+  </item><item>
+    <title>L6 - Stretch and Compressions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L6---Stretch-and-Compressions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L6---Stretch-and-Compressions</guid>
+    <description>...</description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
+  </item><item>
+    <title>L7 - Combination of Transformations</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L7---Combination-of-Transformations</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L7---Combination-of-Transformations</guid>
+    <description></description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
+  </item><item>
+    <title>L8 - Inverse Functions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</guid>
+    <description> What is an inverse of a relation? An inverse relation is a reflection of a relation relative to y=x. In an inverse relation: The domain becomes the image, and the image becomes the domain 3 methods of identifying an inverse Method 1: Table of values Take the table of values of and flip every value of x to y and every value of y to x Turn the domain into the image and the image into the domain Method 2: Graph Trace the inverse of the relation by switching the x and y values Method 3: Equation Switch the values of x and y in the equation Isolate y mjx-container[jax=&quot;SVG&quot;] { direction: ltr; } mjx-container[jax=&quot;SVG&quot;] &gt; svg { overflow: visible; min-height: 1px; min-width: 1px; } mjx-container[jax=&quot;SVG&quot;] &gt; svg a { fill: blue; stroke: blue; } mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] { display: block; text-align: center; margin: 1em 0; } mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] { display: flex; } mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] { text-align: left; } mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] { text-align: right; } g[data-mml-node=&quot;merror&quot;] &gt; g { fill: red; stroke: red; } g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] { fill: yellow; stroke: none; } g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] { stroke-width: 70px; fill: none; } g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] { stroke-width: 70px; fill: none; } g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed { stroke-dasharray: 140; } g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted { stroke-linecap: round; stroke-dasharray: 0,140; } g[data-mml-node=&quot;mtable&quot;] &gt; g &gt; svg { overflow: visible; } [jax=&quot;SVG&quot;] mjx-tool { display: inline-block; position: relative; width: 0; height: 0; } [jax=&quot;SVG&quot;] mjx-tool &gt; mjx-tip { position: absolute; top: 0; left: 0; } mjx-tool &gt; mjx-tip { display: inline-block; padding: .2em; border: 1px solid #888; font-size: 70%; background-color: #F8F8F8; color: black; box-shadow: 2px 2px 5px #AAAAAA; } g[data-mml-node=&quot;maction&quot;][data-toggle] { cursor: pointer; } mjx-status { display: block; position: fixed; left: 1em; bottom: 1em; min-width: 25%; padding: .2em .4em; border: 1px solid #888; font-size: 90%; background-color: #F8F8F8; color: black; } foreignObject[data-mjx-xml] { font-family: initial; line-height: normal; overflow: visible; } mjx-container[jax=&quot;SVG&quot;] path[data-c], mjx-container[jax=&quot;SVG&quot;] use[data-c] { stroke-width: 3; } .</description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
+  </item><item>
+    <title>Communication</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</guid>
+    <description></description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
+  </item><item>
+    <title>L1 - Laws of Exponents</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L1---Laws-of-Exponents</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L1---Laws-of-Exponents</guid>
+    <description>...</description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
+  </item><item>
+    <title>L2 - Rational Exponents</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L2---Rational-Exponents</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L2---Rational-Exponents</guid>
+    <description>...</description>
+    <pubDate>Fri, 06 Sep 2024 01:08:15 GMT</pubDate>
   </item>
     </channel>
   </rss>
