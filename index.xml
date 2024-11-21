@@ -6,65 +6,65 @@
       <description>Last 10 notes on skibidi rizz notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>exam prep</title>
+    <link>https://notes-and-shit.github.io/Science/SNC2D1/exam-prep</link>
+    <guid>https://notes-and-shit.github.io/Science/SNC2D1/exam-prep</guid>
+    <description>...</description>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://notes-and-shit.github.io/Science/</link>
+    <guid>https://notes-and-shit.github.io/Science/</guid>
+    <description></description>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
+  </item><item>
     <title>Welcome To Our Notes Vault</title>
     <link>https://notes-and-shit.github.io/</link>
     <guid>https://notes-and-shit.github.io/</guid>
     <description>Get stated by heading to out Overview Here are the subjects we cover: English French Math.</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
   </item><item>
-    <title>L8 - Inverse Functions</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-3/L8---Inverse-Functions</guid>
-    <description> What is an inverse of a relation? An inverse relation is a reflection of a relation relative to y=x. In an inverse relation: The domain becomes the image, and the image becomes the domain 3 methods of identifying an inverse Method 1: Table of values Take the table of values of and flip every value of x to y and every value of y to x Turn the domain into the image and the image into the domain Method 2: Graph Trace the inverse of the relation by switching the x and y values Method 3: Equation Switch the values of x and y in the equation Isolate y mjx-container[jax=&quot;SVG&quot;] { direction: ltr; } mjx-container[jax=&quot;SVG&quot;] &gt; svg { overflow: visible; min-height: 1px; min-width: 1px; } mjx-container[jax=&quot;SVG&quot;] &gt; svg a { fill: blue; stroke: blue; } mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] { display: block; text-align: center; margin: 1em 0; } mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] { display: flex; } mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] { text-align: left; } mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] { text-align: right; } g[data-mml-node=&quot;merror&quot;] &gt; g { fill: red; stroke: red; } g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] { fill: yellow; stroke: none; } g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] { stroke-width: 70px; fill: none; } g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] { stroke-width: 70px; fill: none; } g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed { stroke-dasharray: 140; } g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted { stroke-linecap: round; stroke-dasharray: 0,140; } g[data-mml-node=&quot;mtable&quot;] &gt; g &gt; svg { overflow: visible; } [jax=&quot;SVG&quot;] mjx-tool { display: inline-block; position: relative; width: 0; height: 0; } [jax=&quot;SVG&quot;] mjx-tool &gt; mjx-tip { position: absolute; top: 0; left: 0; } mjx-tool &gt; mjx-tip { display: inline-block; padding: .2em; border: 1px solid #888; font-size: 70%; background-color: #F8F8F8; color: black; box-shadow: 2px 2px 5px #AAAAAA; } g[data-mml-node=&quot;maction&quot;][data-toggle] { cursor: pointer; } mjx-status { display: block; position: fixed; left: 1em; bottom: 1em; min-width: 25%; padding: .2em .4em; border: 1px solid #888; font-size: 90%; background-color: #F8F8F8; color: black; } foreignObject[data-mjx-xml] { font-family: initial; line-height: normal; overflow: visible; } mjx-container[jax=&quot;SVG&quot;] path[data-c], mjx-container[jax=&quot;SVG&quot;] use[data-c] { stroke-width: 3; } .</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
+    <title>L2 - Multiply and Divide Rational Expressions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L2---Multiply-and-Divide-Rational-Expressions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L2---Multiply-and-Divide-Rational-Expressions</guid>
+    <description>Notes Multiplying Rational Expressions 1. Factorise 2.Indicate Restrictions Two Denominators 3. Simplify common factors 4. Multiply Dividing Rational Expressions 1.</description>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
+  </item><item>
+    <title>L3 - Add and Substract rational expressions</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L3---Add-and-Substract-rational-expressions</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-1/L3---Add-and-Substract-rational-expressions</guid>
+    <description>Notes Adding or Subtracting Rational Expressions 1. Factorize 2. Find the LDC (Lowest Common Denominator) 3. State restrictions 4. Add or subtract the numerators after multiplying 5.</description>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
   </item><item>
     <title>Communication</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/Communication</guid>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/Communication</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/Communication</guid>
     <description></description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
   </item><item>
-    <title>L1 - Laws of Exponents</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L1---Laws-of-Exponents</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L1---Laws-of-Exponents</guid>
+    <title>L1 - Max and Min Value of a Quadratic Function</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L1---Max-and-Min-Value-of-a-Quadratic-Function</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L1---Max-and-Min-Value-of-a-Quadratic-Function</guid>
+    <description>Notes 3 Forms of a Quadratic Function General Form y-intercept: (0,c) Vertex Form *change the sign of h Vertex: (h, k) Factored Form *change the sign of r and s x-intercept: (r,0) and ...</description>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
+  </item><item>
+    <title>L2 - Applications</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L2---Applications</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L2---Applications</guid>
     <description>...</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
   </item><item>
-    <title>L2 - Rational Exponents</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L2---Rational-Exponents</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L2---Rational-Exponents</guid>
-    <description>...</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
+    <title>L3 - Working With Radicals</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L3---Working-With-Radicals</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L3---Working-With-Radicals</guid>
+    <description>Notes Important Terms Radical: The symbol Radicand: Number or expression under the radical Perfect Square: A Number in which the root is a whole number Simplifying and Rationalizing ...</description>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
   </item><item>
-    <title>L3 - Transformations of Exponential Functions</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L3---Transformations-of-Exponential-Functions</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L3---Transformations-of-Exponential-Functions</guid>
-    <description>...</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
-  </item><item>
-    <title>L4 - Solving Exponential Equations</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L4---Solving-Exponential-Equations</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L4---Solving-Exponential-Equations</guid>
-    <description>...</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
-  </item><item>
-    <title>L5 - Exponential Growth and Decay</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L5---Exponential-Growth-and-Decay</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-4/L5---Exponential-Growth-and-Decay</guid>
-    <description>...</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
-  </item><item>
-    <title>L1 - Right Angled Triangles</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-5/L1---Right-Angled-Triangles</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-5/L1---Right-Angled-Triangles</guid>
-    <description>...</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
-  </item><item>
-    <title>L2 - Trigonometric Angles</title>
-    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-5/L2---Trigonometric-Angles</link>
-    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-5/L2---Trigonometric-Angles</guid>
-    <description> Trigonometric Angles .</description>
-    <pubDate>Thu, 21 Nov 2024 15:04:48 GMT</pubDate>
+    <title>L4 - Solving Quadratic Equations</title>
+    <link>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L4---Solving-Quadratic-Equations</link>
+    <guid>https://notes-and-shit.github.io/Math/MCR3U5/Unit-2/L4---Solving-Quadratic-Equations</guid>
+    <description> 3 Solutions of a Quadratic Equation When we solve an equation, we are trying to to find the values of x that make MG = MD. For a quadratic function, this means the values of x that render the equation equal to 0.</description>
+    <pubDate>Thu, 21 Nov 2024 15:11:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
